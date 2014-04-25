@@ -4,9 +4,9 @@ Hvad sker der
 
 ## Secondary heading
 
-Hvad sker der så?
+Hvad sker der sï¿½?
 
-## Tertiary heading
+### Tertiary heading
 
 Mon det virker
 
